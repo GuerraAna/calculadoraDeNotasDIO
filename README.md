@@ -51,8 +51,6 @@ Neste tópico compartilharei com vocês as minhas inteções neste projeto. Ao d
 
 ## Interface base atual: 🔧🚧⚠️
 
-Esta Interface é a base para iniciar a minha criatividade e aplicação teórica
-
 ![image](https://user-images.githubusercontent.com/78937585/114626158-ae150d80-9c89-11eb-9c09-df432fb8d928.png)
 
 
