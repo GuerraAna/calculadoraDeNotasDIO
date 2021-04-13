@@ -33,7 +33,7 @@ Neste tópico compartilharei com vocês as minhas inteções neste projeto. Ao d
 
 #### Primeira Atividade:
 
-<img src="C:\Users\anagu\AppData\Roaming\Typora\typora-user-images\image-20210413213834918.png" alt="image-20210413213834918" style="zoom: 50%;" />
+![image](https://user-images.githubusercontent.com/78937585/114626063-8de54e80-9c89-11eb-97af-37fcf4eaa630.png)
 
 #### Segunda Atividade:
 
