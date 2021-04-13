@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">calculadoraDeNotas</string>
+    <string name="digite_a_qnt_de_faltas">Digite a qnt. de faltas</string>
+    <string name="digite_a_nota_2">Digite a nota 2</string>
+    <string name="digite_a_nota_1">Digite a nota 1</string>
+    <string name="calcular">Calcular</string>
+</resources>
