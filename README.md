@@ -53,11 +53,11 @@ Neste tópico compartilharei com vocês as minhas inteções neste projeto. Ao d
 
 Esta Interface é a base para iniciar a minha criatividade e aplicação teórica
 
-<img src="C:\Users\anagu\AppData\Roaming\Typora\typora-user-images\image-20210413214043038.png" alt="image-20210413214043038" style="zoom:50%;" />
+![image](https://user-images.githubusercontent.com/78937585/114626158-ae150d80-9c89-11eb-9c09-df432fb8d928.png)
 
 
 ## Interface da instrutora: ✅
 
-![image-20210413214314619](C:\Users\anagu\AppData\Roaming\Typora\typora-user-images\image-20210413214314619.png)
+![image](https://user-images.githubusercontent.com/78937585/114626221-c422ce00-9c89-11eb-819f-89ec50240fa7.png)
 
 
