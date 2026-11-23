@@ -59,3 +59,21 @@ Neste tópico compartilharei com vocês as minhas inteções neste projeto. Ao d
 ![image](https://user-images.githubusercontent.com/78937585/114626221-c422ce00-9c89-11eb-819f-89ec50240fa7.png)
 
 
+
+## Tecnologias
+
+- Kotlin
+- AppCompat, Material, ConstraintLayout
+- AGP 4.1.3 / Gradle 6.5
+
+## Pré-requisitos
+
+- **JDK 11**
+- Android SDK
+
+## Como rodar
+
+```bash
+echo "sdk.dir=$HOME/Library/Android/sdk" > local.properties   # macOS
+./gradlew assembleDebug
+```
